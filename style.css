@@ -1,0 +1,9 @@
+#square {
+  width: 200px;
+  height: 200px;
+  border: solid;
+}
+  
+#restartButton {
+  display: none;
+}
